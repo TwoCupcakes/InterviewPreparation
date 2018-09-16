@@ -21,7 +21,13 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bit_manipulations\CTCI_5.2_binary_to_string.cpp">
+      <Filter>Source Files\bit_manipulations</Filter>
+    </ClCompile>
     <ClCompile Include="bit_manipulations\CTCI_5.1_Insertion.cpp">
+      <Filter>Source Files\bit_manipulations</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_manipulations\CTCI_5.3_flip_to_win.cpp">
       <Filter>Source Files\bit_manipulations</Filter>
     </ClCompile>
   </ItemGroup>

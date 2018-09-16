@@ -116,6 +116,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bit_manipulations\CTCI_5.1_Insertion.cpp" />
+    <ClCompile Include="bit_manipulations\CTCI_5.2_binary_to_string.cpp" />
+    <ClCompile Include="bit_manipulations\CTCI_5.3_flip_to_win.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

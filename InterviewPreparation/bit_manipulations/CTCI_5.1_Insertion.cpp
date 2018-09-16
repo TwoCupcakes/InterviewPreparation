@@ -1,4 +1,3 @@
-#include <iostream>
 #include "../Headers/bit_manipulations.h"
 
 int insertion(int n, int m, int i, int j)

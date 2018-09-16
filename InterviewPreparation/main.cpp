@@ -4,7 +4,7 @@
 
 int main()
 {
-    test_insertion();
+    test_flip_to_win();
 
     std::cin.get();
 }
