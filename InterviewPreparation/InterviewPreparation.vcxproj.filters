@@ -16,6 +16,9 @@
     <Filter Include="Source Files\bit_manipulations">
       <UniqueIdentifier>{c45bc426-bdde-40a5-9979-7b4b6454b34b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\tree">
+      <UniqueIdentifier>{55b4c2cf-be2e-4115-bfc3-b1cf65df2bbc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -36,9 +39,15 @@
     <ClCompile Include="bit_manipulations\LC_338_count_bits.cpp">
       <Filter>Source Files\bit_manipulations</Filter>
     </ClCompile>
+    <ClCompile Include="tree\LC_654_maximum_binary_tree.cpp">
+      <Filter>Source Files\tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\bit_manipulations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

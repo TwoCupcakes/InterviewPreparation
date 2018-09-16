@@ -1,10 +1,11 @@
 #include <iostream>
 
 #include "Headers/bit_manipulations.h"
+#include "Headers/tree.h"
 
 int main()
 {
-    test_count_bits();
+    test_max_tree();
 
     std::cin.get();
 }
