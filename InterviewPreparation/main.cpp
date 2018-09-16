@@ -4,7 +4,7 @@
 
 int main()
 {
-    test_flip_to_win();
+    test_count_bits();
 
     std::cin.get();
 }

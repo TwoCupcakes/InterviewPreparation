@@ -30,6 +30,12 @@
     <ClCompile Include="bit_manipulations\CTCI_5.3_flip_to_win.cpp">
       <Filter>Source Files\bit_manipulations</Filter>
     </ClCompile>
+    <ClCompile Include="bit_manipulations\LC_461_hamming_distance.cpp">
+      <Filter>Source Files\bit_manipulations</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_manipulations\LC_338_count_bits.cpp">
+      <Filter>Source Files\bit_manipulations</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\bit_manipulations.h">
