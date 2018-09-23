@@ -8,7 +8,7 @@ TreeNode* max_tree(std::vector<int>& nums)
 
     int max_idx = 0;
 
-    for (int i = 1; i < nums.size(); ++i) {
+    for (std::size_t i = 1; i < nums.size(); ++i) {
         if (nums[i] > nums[max_idx]) {
             max_idx = i;
         }

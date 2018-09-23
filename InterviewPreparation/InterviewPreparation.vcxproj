@@ -120,11 +120,13 @@
     <ClCompile Include="bit_manipulations\CTCI_5.3_flip_to_win.cpp" />
     <ClCompile Include="bit_manipulations\LC_338_count_bits.cpp" />
     <ClCompile Include="bit_manipulations\LC_461_hamming_distance.cpp" />
+    <ClCompile Include="dynamic_programming\CTCI_8.1_triple_step.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="tree\LC_654_maximum_binary_tree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\bit_manipulations.h" />
+    <ClInclude Include="Headers\dynamic_programming.h" />
     <ClInclude Include="Headers\tree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

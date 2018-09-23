@@ -19,6 +19,9 @@
     <Filter Include="Source Files\tree">
       <UniqueIdentifier>{55b4c2cf-be2e-4115-bfc3-b1cf65df2bbc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\dynamic_programming">
+      <UniqueIdentifier>{56f99148-f55d-4e8e-b84d-e11fb36362ee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -42,12 +45,18 @@
     <ClCompile Include="tree\LC_654_maximum_binary_tree.cpp">
       <Filter>Source Files\tree</Filter>
     </ClCompile>
+    <ClCompile Include="dynamic_programming\CTCI_8.1_triple_step.cpp">
+      <Filter>Source Files\dynamic_programming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Headers\bit_manipulations.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Headers\tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\dynamic_programming.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
